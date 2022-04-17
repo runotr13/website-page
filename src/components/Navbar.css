@@ -1,0 +1,59 @@
+.containerNavbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    height: 80px;
+    background-color: #354149;
+    border-bottom: 5px solid #82589F;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.containerNavbar h2 {
+    color: white;
+    font-size: 1.7rem;
+    word-spacing: 5px;
+}
+.containerNavbar h2 span {
+    color: #82589F;
+}
+.navbar{
+    display: flex;
+    
+}
+.Linkler{
+    text-decoration: none;
+    width:130px;
+    color: white;
+    font-size: 1.2rem;
+}
+.Linkler:hover{
+    color: bisque;
+}
+.containerHeader{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    height: 80px;
+    background-color: #354149;
+    font-family: serif;
+    font-weight: bold;
+}
+.containerHeader h2{
+    color: white;
+    font-size: 1.5rem;
+}
+.form{
+    padding-right: 40px;
+    
+}
+.form input{
+    padding: 5px;
+    width: 200px;
+}
+.form button{
+    padding: 7px;
+    color: white;
+    background-color: #E8481E;
+    border:none;
+}
+

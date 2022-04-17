@@ -1,0 +1,14 @@
+.footer{
+    background-color: #35424A;
+    height:15vh;
+    text-align: center;
+    padding: 10px;
+}
+.clarusway {
+    height:7vh;
+    padding: 5px;
+    cursor: pointer;
+}
+.footer > h3 {
+    color: #fff;
+}

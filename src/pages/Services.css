@@ -1,0 +1,46 @@
+.design{
+    display:flex;
+    justify-content:space-evenly;
+}
+.containerleft{
+    height:339px;
+}
+.containerright{
+    width:400px;
+    background-color: #354149;
+    padding: 10px;
+    color: #fff;
+    height:280px;
+}
+.containerHeaderss{
+    display:flex;
+    flex-direction: column;
+    width:250px;
+}
+label{
+    padding-bottom: 5px;
+}
+.message{
+    resize: none;
+    height:40px;
+}
+.webDesign{
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #dcdde1;
+}
+.h2title{
+    padding: 10px;
+    padding-left: 100px;
+}
+.containerHeaderss > button {
+    width:100px;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #E8481E;
+    border:none;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+}

@@ -1,0 +1,28 @@
+.headerHtml{
+    height:60vh;
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 600;
+    padding-top: 50px;
+}
+.headerHtml > img {
+    width:150px;
+}
+.headerHtml > button {
+    padding: 5px;
+    width:130px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    cursor:pointer;
+}
+.headerHtml > h3 {
+    padding: 5px;
+    font-size: 1.3rem;
+}
